@@ -1,3 +1,4 @@
 # iban_cepte
 
-A new Flutter project.
+İbanlarınızı güvenle saklayın.
+
